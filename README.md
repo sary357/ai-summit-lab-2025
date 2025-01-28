@@ -57,3 +57,10 @@ CACHE_COLLECITON_DEFAULT_TTL=300
 - Execute the Jupyter notebook like [sample_codes/semantic_cache/1_query_with_sqlite.ipynb](sample_codes/semantic_cache/1_query_with_sqlite.ipynb) and [sample_codes/semantic_cache/2_query_with_milvus.ipynb]([sample_codes/semantic_cache/2_query_with_milvus.ipynb) with the web browser.
 # Slides
 - [Presentation slides](https://gamma.app/docs/LLM-semantic-cache-dxqy891owffkt81?mode=doc)
+# References
+- https://www.restack.io/p/gptcache-knowledge-gptcache-milvus-cat-ai
+- https://community.aws/content/2juMSXyaSX2qelT4YSdHBrW2D6s/bridging-the-efficiency-gap-mastering-llm-caching-for-next-generation-ai-part-2
+- https://github.com/zilliztech/GPTCache
+- https://milvus.io/docs
+- https://www.sbert.net/docs/sentence_transformer/pretrained_models.html
+- https://towardsai.net/p/machine-learning/a-complete-guide-to-rag-and-llamaindex​
