@@ -54,6 +54,6 @@ CACHE_COLLECITON_DEFAULT_TTL=300
 
 ```
 - launch jupyter notebook with [start.sh](start.sh)
-- Execute the Jupyter notebook like [sample_codes/semantic_cache/1_query_with_sqlite.ipynb](sample_codes/semantic_cache/1_query_with_sqlite.ipynb) and [sample_codes/semantic_cache/2_query_with_milvus.ipynb]([sample_codes/semantic_cache/2_query_with_milvus.ipynb)
+- Execute the Jupyter notebook like [sample_codes/semantic_cache/1_query_with_sqlite.ipynb](sample_codes/semantic_cache/1_query_with_sqlite.ipynb) and [sample_codes/semantic_cache/2_query_with_milvus.ipynb]([sample_codes/semantic_cache/2_query_with_milvus.ipynb) with the web browser.
 # Slides
 - [Presentation slides](https://gamma.app/docs/LLM-semantic-cache-dxqy891owffkt81?mode=doc)
