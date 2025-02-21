@@ -10,8 +10,11 @@
 |   |    ├── 2_list_collection.py: list collections in the databases. 
 |   |    └── 3_ingest_data.py: ingest data into RAG VectorDB.
 |   └─── semantic_cache
-|        ├── 1_query_with_sqlite.ipynb: semantic cache implementation with FAISS + SQLite.
-|        └── 2_query_with_milvus.ipynb: semantic cache implementation with Milvus.
+|   |    ├── 1_query_with_sqlite.ipynb: semantic cache implementation with FAISS + SQLite.
+|   |    ├── 2_query_with_milvus.ipynb: semantic cache implementation with FAISS + SQLite.
+|   |    └── 3_video_embedding_playground.ipynb: video embedding sample
+|   └─── videos
+|        └── big_buck_bunny_480p_1mb.mp4: sample video used in 3_video_embedding_playground.ipynb
 |── milvus
 |   ├── README.md: describe how to launch milvus with Docker on local environment.
 |   └── standalone_embed.sh: the script which can lauch milvus. Please feel free to ignore this file if you follow the instruction described in README.md.
@@ -63,4 +66,7 @@ CACHE_COLLECITON_DEFAULT_TTL=300
 - https://github.com/zilliztech/GPTCache
 - https://milvus.io/docs
 - https://www.sbert.net/docs/sentence_transformer/pretrained_models.html
-- https://towardsai.net/p/machine-learning/a-complete-guide-to-rag-and-llamaindex​
+- https://towardsai.net/p/machine-learning/a-complete-guide-to-rag-and-llamaindex
+- https://sample-videos.com/0
+- https://docs.twelvelabs.io/docs/create-video-embeddings
+- https://milvus.io/docs/zh-hant/video_search_with_twelvelabs_and_milvus.md
